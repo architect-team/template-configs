@@ -3,17 +3,17 @@
   "choices": [
     {
       "type": "database",
-      "architect-file": "",
+      "architect-file": "https://raw.githubusercontent.com/architect-team/template-configs/main/databases/mysql-architect.yml",
       "name": "MySQL"
     },
     {
       "type": "database",
-      "architect-file": "",
+      "architect-file": "https://raw.githubusercontent.com/architect-team/template-configs/main/databases/mariadb-architect.yml",
       "name": "MariaDB"
     },
     {
       "type": "database",
-      "architect-file": "",
+      "architect-file": "https://raw.githubusercontent.com/architect-team/template-configs/main/databases/postgres-architect.yml",
       "name": "Postgres"
     },
     {
