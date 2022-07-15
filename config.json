@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "choices": [
+    {
+      "type": "database",
+      "architect-file": "",
+      "name": "MySQL"
+    },
+    {
+      "type": "database",
+      "architect-file": "",
+      "name": "MariaDB"
+    },
+    {
+      "type": "database",
+      "architect-file": "",
+      "name": "Postgres"
+    },
+    {
+      "type": "frontend",
+      "repository": "https://github.com/architect-templates/react",
+      "name": "React"
+    },
+    {
+      "type": "backend",
+      "architect-file": "https://github.com/architect-templates/node-rest-api",
+      "name": "NodeJS"
+    }
+  ]
+}
