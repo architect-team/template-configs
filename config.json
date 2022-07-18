@@ -23,7 +23,7 @@
     },
     {
       "type": "backend",
-      "architect-file": "https://github.com/architect-templates/node-rest-api",
+      "repository": "https://github.com/architect-templates/node-rest-api",
       "name": "NodeJS"
     }
   ]
