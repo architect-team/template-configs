@@ -23,5 +23,7 @@ services:
         protocol: mysql
         path: /${{ secrets.db_name }}
     environment:
+      MYSQL_USER: ${{ secrets.db_user }}
       MYSQL_ROOT_PASSWORD: ${{ secrets.db_pass }}
+      MYSQL_PASSWORD: ${{ secrets.db_pass }}
       MYSQL_DATABASE: ${{ secrets.db_name }}
