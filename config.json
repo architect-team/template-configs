@@ -23,7 +23,7 @@
     },
     {
       "type": "frontend",
-      "repository": "https://github.com/architect-templates/nuxt",
+      "repository": "https://github.com/Zach-at-Arch/nuxt",
       "name": "Nuxt"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "type": "backend",
-      "repository": "https://github.com/architect-templates/nestjs",
+      "repository": "https://github.com/Zach-at-Arch/nestjs",
       "name": "Nest"
     }
   ]
