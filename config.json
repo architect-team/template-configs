@@ -22,9 +22,19 @@
       "name": "React"
     },
     {
+      "type": "frontend",
+      "repository": "https://github.com/architect-templates/nuxt",
+      "name": "Nuxt"
+    },
+    {
       "type": "backend",
       "repository": "https://github.com/architect-templates/node-rest-api",
       "name": "NodeJS"
+    },
+    {
+      "type": "backend",
+      "repository": "https://github.com/architect-templates/nestjs",
+      "name": "Nest"
     }
   ]
 }
