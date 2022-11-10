@@ -2,19 +2,9 @@
   "version": "0.0.1",
   "choices": [
     {
-      "type": "frontend",
-      "repository": "https://github.com/architect-templates/react",
-      "name": "React"
-    },
-    {
-      "type": "frontend",
-      "repository": "https://github.com/architect-templates/nuxt",
-      "name": "Nuxt"
-    },
-    {
-      "type": "backend",
-      "repository": "https://github.com/architect-templates/nestjs",
-      "name": "Nest"
+      "type": "fullstack",
+      "repository": "https://github.com/architect-templates/asp-net-core",
+      "name": "ASP.NET Core"
     },
     {
       "type": "backend",
@@ -33,8 +23,8 @@
     },
     {
       "type": "backend",
-      "repository": "https://github.com/architect-templates/springboot",
-      "name": "Springboot"
+      "repository": "https://github.com/architect-templates/nestjs",
+      "name": "Nest"
     },
     {
       "type": "frontend",
@@ -45,6 +35,26 @@
       "type": "backend",
       "repository": "https://github.com/architect-templates/nodejs",
       "name": "Nodejs"
+    },
+    {
+      "type": "frontend",
+      "repository": "https://github.com/architect-templates/nuxt",
+      "name": "Nuxt"
+    },
+    {
+      "type": "frontend",
+      "repository": "https://github.com/architect-templates/react",
+      "name": "React"
+    },
+    {
+      "type": "fullstack",
+      "repository": "https://github.com/architect-templates/ruby-on-rails",
+      "name": "Ruby-on-Rails"
+    },
+    {
+      "type": "backend",
+      "repository": "https://github.com/architect-templates/springboot",
+      "name": "Springboot"
     }
   ]
 }
