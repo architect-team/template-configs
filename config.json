@@ -37,12 +37,7 @@
       "name": "Springboot"
     },
     {
-      "type": "backend",
-      "repository": "https://github.com/architect-templates/next",
-      "name": "Nextjs"
-    },
-    {
-      "type": "backend",
+      "type": "frontend",
       "repository": "https://github.com/architect-templates/next",
       "name": "Nextjs"
     },
